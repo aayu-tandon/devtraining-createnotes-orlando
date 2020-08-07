@@ -1,5 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<record_update table="sp_column">
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sp_column">
     <sp_column action="INSERT_OR_UPDATE">
         <class_name/>
         <order>1</order>
@@ -7,7 +6,7 @@
         <size_lg/>
         <size_sm/>
         <size_xs/>
-        <sp_row display_value="1">4b2956e1094232007f44e1046c8ff693</sp_row>
+        <sp_row display_value="2">4b2956e1094232007f44e1046c8ff693</sp_row>
         <sys_class_name>sp_column</sys_class_name>
         <sys_created_by>admin</sys_created_by>
         <sys_created_on>2017-04-10 19:08:22</sys_created_on>
